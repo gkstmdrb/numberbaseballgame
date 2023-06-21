@@ -18,13 +18,24 @@
 9번 이하면 "보통이네요!" <br>
 10번 이상이면 "분발하세요!" 를 출력한다. <br><br><br>
 ## 실행 화면
+정답: 2 5 1 <br><br>
 ![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/e6741407-4c00-4459-a23e-7a74efe0e066) <br>
-![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/903c05d4-9708-41b8-bf0c-96948f808d36) <br>
-![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/ad179da3-2e39-419a-adb9-f88fcf6db65b) <br>
-![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/afdf623d-f930-42d5-8fbe-147a48be226f) <br>
-![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/8bba2ae6-8449-481e-9a9b-7d0cf4f101ad) <br>
-![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/3cd22b1c-cac0-4bf6-8fcc-f381f7f8fc0b) <br>
+1: 입력 값은 1 2 3 이므로 1과 2를 포함하나 자리가 다르므로 ball: 2 <br><br>
 
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/903c05d4-9708-41b8-bf0c-96948f808d36) <br>
+2: 4 5 6을 입력하면 5를 포함하고 자리가 같으므로 strike: 1 <br><br>
+
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/ad179da3-2e39-419a-adb9-f88fcf6db65b) <br>
+3: 2 3 4를 입력하면 2를 포함하고 자리가 같으므로 strike: 1 <br><br>
+
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/afdf623d-f930-42d5-8fbe-147a48be226f) <br>
+4: 3 1 6을 입력하면 1을 포함하고 자리가 다르므로 ball: 1 <br><br>
+
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/8bba2ae6-8449-481e-9a9b-7d0cf4f101ad) <br>
+5: 2 3 5를 입력하면 2는 자리가 같고 5는 자리가 다르므로 strke: 1, ball: 1 <br><br>
+
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/3cd22b1c-cac0-4bf6-8fcc-f381f7f8fc0b) <br>
+6: 정답인 2 5 1을 입력하였으니 반복문은 종료되고, 시도 횟수가 6회이므로 "보통이네요!"를 출력한다.
 
 <br><br><br>
 
