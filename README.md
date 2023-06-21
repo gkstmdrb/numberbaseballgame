@@ -118,7 +118,16 @@ usr, com 두 개의 배열이 각각 완전히 일치할 경우에만 strike 처
 usr, com 두 개의 배열의 데이터 위치가 다른 경우에는 ball로 처리를 한다. <br><br>
 ------------------------------------------
 ``` java
+if (usr[0]==com[0]) strike++;
+if (usr[1]==com[1]) strike++;
+if (usr[2]==com[2]) strike++; 
 
+if(usr[0]==com[1]) ball++;
+if(usr[0]==com[2]) ball++;
+if(usr[1]==com[0]) ball++;
+if(usr[1]==com[2]) ball++;
+if(usr[2]==com[0]) ball++;
+if(usr[2]==com[1]) ball++;
 ```
 usr, com 두 개의 배열이 각각 완전히 일치할 경우에만 strike 처리를 한다. <br>
 usr, com 두 개의 배열의 데이터 위치가 다른 경우에만 ball 처리를 한다. <br><br>
