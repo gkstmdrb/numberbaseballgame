@@ -151,8 +151,8 @@ import java.io.*;
 		}
 			
 		System.out.println();
-		if (result<=2) {
-			System.out.println("참 잘했어요!");   //시도횟수가 2번 이하
+		if (result<=3) {
+			System.out.println("참 잘했어요!");   //시도횟수가 3번 이하
 		} else if (result<=5){
 			System.out.println("잘했어요!"); 		 //시도횟수가 3번부터 5번 이하
 		} else if (result<=9){
