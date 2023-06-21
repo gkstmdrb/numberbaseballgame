@@ -16,7 +16,16 @@
 3번 이하면 "참 잘했어요!" <br>
 5번 이하면 "잘했어요!" <br>
 9번 이하면 "보통이네요!" <br>
-10번 이상이면 "분발하세요!" 를 출력한다. <br>
+10번 이상이면 "분발하세요!" 를 출력한다. <br><br><br>
+## 실행 화면
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/e6741407-4c00-4459-a23e-7a74efe0e066) <br>
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/903c05d4-9708-41b8-bf0c-96948f808d36) <br>
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/ad179da3-2e39-419a-adb9-f88fcf6db65b) <br>
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/afdf623d-f930-42d5-8fbe-147a48be226f) <br>
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/8bba2ae6-8449-481e-9a9b-7d0cf4f101ad) <br>
+![image](https://github.com/gkstmdrb/numberbaseballgame/assets/114748816/3cd22b1c-cac0-4bf6-8fcc-f381f7f8fc0b) <br>
+
+
 <br><br><br>
 
 ## 설계
